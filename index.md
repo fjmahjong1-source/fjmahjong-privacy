@@ -8,4 +8,6 @@ For questions, feedback, bug reports, or any other support needs, please email:
 
 We typically respond within 1-2 business days.
 
+---
+
 See our [Privacy Policy for FJ Mahjong](https://fjmahjong1-source.github.io/fjmahjong-privacy/PRIVACY) for information about how we handle your data.
